@@ -1,0 +1,19 @@
+#map {
+    height: 600px;
+    width: 600px;
+}
+
+html {
+    font-family: sans-serif;
+    font-weight: bolder;
+
+}
+
+button {
+    margin: 5px;
+    background-color: pink;
+    border: solid;
+    height: 30px;
+    width: 90px;
+    border-radius: 5%;
+}
